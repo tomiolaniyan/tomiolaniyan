@@ -41,3 +41,5 @@ To leverage my analytical skills and industry experience to deliver scalable bus
 - Microsoft Excel  
 - ServiceNow  
 - SharePoint
+
+- ## Artifacts
