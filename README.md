@@ -1,6 +1,6 @@
 # About Me
 
-## Brief Professional Summary
+## Professional Summary
 Hi, Tomi Olaniyan – a results-driven Business Analyst with over a decade of experience bridging the gap between business needs and technology solutions. I’ve led and supported a wide range of initiatives across payments, enterprise systems, customer portals, and data migration projects. My strengths lie in stakeholder engagement, requirements documentation, process improvement, and delivering business value through technology.
 
 ## Objective Statement
