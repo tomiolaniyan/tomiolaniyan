@@ -42,4 +42,4 @@ To leverage my analytical skills and industry experience to deliver scalable bus
 - ServiceNow  
 - SharePoint
 
-- ## Artifacts
+## Artifacts
