@@ -43,5 +43,4 @@ To leverage my analytical skills and industry experience to deliver scalable bus
 - SharePoint
 
 ## Artifacts
-# Requirements Managemenent Plan
-[RMP](https://github.com/tomiolaniyan/Artifacts.md/blob/main/README.md)
+# Requirement Management Plan.md
