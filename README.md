@@ -48,5 +48,4 @@ A sample display of some BA Artifacts worked on for illustrative purpose
 
 [View Artifacts](https://github.com/tomiolaniyan/Artifacts/tree/main)
 
-### RMP
-[RMP](https://github.com/tomiolaniyan/Artifacts/blob/main/Requirements%20Management%20Plan.md)
+### RMP [RMP](https://github.com/tomiolaniyan/Artifacts/blob/main/Requirements%20Management%20Plan.md)
