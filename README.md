@@ -43,7 +43,9 @@ To leverage my analytical skills and industry experience to deliver scalable bus
 - SharePoint
 
 
-# BA Artifacts
+## BA Artifacts
 A sample display of some BA Artifacts worked on for illustrative purpose
 
 [View Artifacts](https://github.com/tomiolaniyan/Artifacts/tree/main)
+
+    ### [RMP](https://github.com/tomiolaniyan/Artifacts/blob/main/Requirements%20Management%20Plan.md)
