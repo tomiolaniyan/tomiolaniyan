@@ -41,3 +41,8 @@ To leverage my analytical skills and industry experience to deliver scalable bus
 - Microsoft Excel  
 - ServiceNow  
 - SharePoint
+
+
+# Artifacts
+A sample display of some BA Artifacts worked on for illustrative purpose
+[View Artifacts](https://github.com/tomiolaniyan/Artifacts/tree/main)
