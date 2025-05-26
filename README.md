@@ -63,5 +63,5 @@ A sample display of some BA Artifacts worked on for illustrative purpose
 - [Network Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Network%20diagram.drawio.png)
 - [Entity Relationship Diagram](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Entity%20relationship%20diagram.drawio.png)
 
-### - Wireframe
+#### - Wireframe
 - [Low fidelity wireframe](https://github.com/tomiolaniyan/Artifacts/blob/main/Brooks%20Wireframe%201.png)
