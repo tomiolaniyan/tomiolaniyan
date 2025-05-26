@@ -41,6 +41,16 @@ To leverage my analytical skills and industry experience to deliver scalable bus
 - Microsoft Excel  
 - ServiceNow  
 - SharePoint
+  
+## My Professional Certifications
+
+| **Certification**                                 | **Issuing Organization**  |
+|----------------------------------------------------|---------------------------|
+| Certified Business Analyst Professional (CBAP)     | IIBA                      |
+| Project Management Professional (PMP)              | PMI                       |
+| Certified Scrum Master (CSM)                       | Scrum Institute           |
+| Certified Scrum Product Owner (CSPO)               | Scrum Institute           |
+| Google Data Analytics                               | Google / Coursera         |
 
 
 ## BA Artifacts
